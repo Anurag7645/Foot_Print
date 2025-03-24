@@ -1,6 +1,6 @@
 
 # **Keylogger with Timestamp & Hidden Execution**
-### **Author:** Zeus  
+### **Author:** D4rkN0d3  
 ### **Description:**  
 This keylogger captures keystrokes, logs them with timestamps, and runs as a hidden background process. The logs are saved in a text file (`keylog.txt`).  
 
